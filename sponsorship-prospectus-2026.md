@@ -348,7 +348,7 @@ Refer to next page for footnotes and additional sponsorship oppertunities.
 ## Footnotes
 
 - \*0: Price in Nepalese Rupees (NPR) is for business with primary office in Nepal.
-- \*1: A large size banner installed in reception area usually or enterance of the venue that number of attendees can take photo with banner as backdrop.
+- \*1: A large size banner installed in reception area usually or entrance of the venue that number of attendees can take photo with banner as backdrop.
 - \*2: Banner of both live streams and video recordings if sessions will be streams or just on video recordings if not.
 - \*3: Duration of Scene will be around a few seconds in the video or live streams.
 - \*4: Sponsored sessions are also subject to approval by the UbuCon Asia content team. Sponsors are required to share the Abstract alongside or before availing sponsorship for review. Note that session should be Ubuntu or relevant Open Source topics and need to comply with our Code of Conducts. Also, Sales or marketing pitches are not allowed.
