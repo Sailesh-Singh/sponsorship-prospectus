@@ -90,7 +90,7 @@ As a non-profit event organized by volunteers without compensation or stable fun
 
 ## Ubuntu
 
-Ubuntu, co-developed by Ubunu Community with people from worldwide and Canonical, stands as the world's leading open source linux based operating system. With its mission to bring free software to the widest audience while accelerating innovation and underpinning operations, Ubuntu powers millions of devices from personal computers to cloud infrastructure, serving as the foundation for technological advancement in AI, cloud computing, IoT, and enterprise solutions.
+Ubuntu, co-developed by Ubuntu Community with people from worldwide and Canonical, stands as the world's leading open source linux based operating system. With its mission to bring free software to the widest audience while accelerating innovation and underpinning operations, Ubuntu powers millions of devices from personal computers to cloud infrastructure, serving as the foundation for technological advancement in AI, cloud computing, IoT, and enterprise solutions.
 
 ## Ubuntu Community
 
@@ -220,7 +220,7 @@ pie
 
 # Become a sponsor!
 
-UbuCon Asia, although being a new addition to the UbuCon events, has already been organized in Seoul(South Korea), Surakarta(Indonesia) and Jaipur(India) with many success. It has been a momentum to drive making local Ubuntu communities active or revive and connect with each other. The event is soley organized by community and volunteer efforts without any financial compensation. Thus, we rely solely on our sponsors to fund our various expenses and make the event successful.
+UbuCon Asia, although being a new addition to the UbuCon events, has already been organized in Seoul(South Korea), Surakarta(Indonesia) and Jaipur(India) with many success. It has been a momentum to drive making local Ubuntu communities active or revive and connect with each other. The event is solely organized by community and volunteer efforts without any financial compensation. Thus, we rely solely on our sponsors to fund our various expenses and make the event successful.
 
 Ubuntu is more than just an open-source platform; it embodies a global community committed to diversity, collaboration, and empowerment. UbuCon Asia is a unique opportunity to engage with passionate technology professionals across the Asia. Sponsoring this event will connect you with top Ubuntu developers, contributors, and innovators from diverse Asian communities, gaining insights into the region's vibrant tech ecosystem. Your support will help foster technological exchange and community growth across Asia and beyond.
 
@@ -347,7 +347,7 @@ of Ubuntu and open source practitioners, all in one place.**
 | Distribute Promotional Material                  | Handout on attendee check-in + At booth                                                                                                        | Handout on attendee check-in + At booth                          | At booth                           | At booth <small>(If booth allocated)</small>         | No        |
 | Promotional Email to all Attendees<sup>\*5</sup> | Yes (One-time with custom content)                                                                                                             | Yes (One-time with custom content)                               | Yes (One-time with custom content) | No                                                   | No        |
 
-Refer to next page for footnotes and additional sponsorship oppertunities.
+Refer to next page for footnotes and additional sponsorship opportunities.
 
 ---
 
@@ -356,7 +356,7 @@ Refer to next page for footnotes and additional sponsorship oppertunities.
 ## Footnotes
 
 - \*0: Price in Nepalese Rupees (NPR) is for business with primary office in Nepal.
-- \*1: A large size banner installed in reception area usually or enterance of the venue that number of attendees can take photo with banner as backdrop.
+- \*1: A large size banner installed in reception area usually or entrance of the venue that number of attendees can take photo with banner as backdrop.
 - \*2: Banner of both live streams and video recordings if sessions will be streams or just on video recordings if not.
 - \*3: Duration of Scene will be around a few seconds in the video or live streams.
 - \*4: Sponsored sessions are also subject to approval by the UbuCon Asia content team. Sponsors are required to share the Abstract alongside or before availing sponsorship for review. Note that session should be Ubuntu or relevant Open Source topics and need to comply with our Code of Conducts. Also, Sales or marketing pitches are not allowed.
