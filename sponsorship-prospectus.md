@@ -314,61 +314,59 @@ of Ubuntu and open source practitioners, all in one place.**
 </style>
 
 # Sponsorship packages
+| Package  | Price (USD) | Official website and OPass app          | Event Site (co-branded with COSCUP)   | COSCUP social media   |
+| -------- | ----------- | --------------------------------------- | ------------------------------------- | --------------------- |
+| Titanium | 8,500       | Company profile listed; agenda page ads | Logo displayed at the \*1; \*2; \*3; \*4; \*5; \*6  | 1 article on the COSCUP blog; promotion via COSCUP social media |
+| Diamond  | 6,090       | Company profile listed; agenda page ads | Logo displayed at the \*1; \*3; \*5   | 1 article on the COSCUP blog; promotion via COSCUP social media |
+| Gold     | 4,910       | Company profile listed; agenda page ads | Logo displayed at the \*1; \*3        | 1 article on the COSCUP blog; promotion via COSCUP social media |
+| Silver   | 2,945       | Company profile listed; agenda page ads | Logo displayed at the \*1             | Promotion via COSCUP social media                               |
+| Bronze   | 1,375       | Company profile listed; agenda page ads | Logo displayed at the \*1             | Promotion via COSCUP social media                               |
+| Friend   | 785         | Company profile listed                  | Logo displayed at the \*1             | Promotion via COSCUP social media                               |
 
-| **Package**   | Diamond    | Gold      | Silver      | Bronze     | Supporter |
-|-------------- | ---------- | --------- | ----------- | ---------- | --------- |
-| **Slots**     |1           | 2         | 6           |            | ∞         |
-| Price(USD)    | 10,000     | 6,000     | 3,500       | 1,600      | 500 - 800 <small>(Startups: 200-800<sup>\*7</sup>)</small> |
-| Price(NPR)<sup>\*0</sup>   | 10,00,000 | 6,00,000                                                         | 4,00,000                           | 2,00,000                                             | 70,000 - 1,00,000 <small>(Startups: 30,000 - 1,00,000<sup>\*7</sup>)</small>   |
-| **Logo exposures**                               |                                                                                                                                                |                                                                  |
-| Website                                          | XL                                                                                                                                             | L                                                                | M                                  | S                                                    | S         |
-| Plenary banner<sup>\*1</sup>                     | XL                                                                                                                                             | L                                                                | M                                  | S                                                    | XS        |
-| Stage (or Podium) banner                         | Yes                                                                                                                                            | Yes                                                              | Yes                                | No                                                   | No        |
-| Nametag                                          | Yes                                                                                                                                            | Yes                                                              | No                                 | No                                                   | No        |
-| Video banner<sup>\*2</sup>                       | Yes                                                                                                                                            | Yes                                                              | No                                 | No                                                   | No        |
-| Video sponsor information scene<sup>\*3</sup>    | Yes                                                                                                                                            | Yes                                                              | Yes                                | Yes                                                  | Yes       |
-| T-Shirt (or other swag if no T-shirt)            | Yes                                                                                                                                            | Yes                                                              | No                                 | No                                                   | No        |
-| **Recognition**                                  |                                                                                                                                                |                                                                  |
-| Recognition posting on social media              | Yes                                                                                                                                            | Yes                                                              | Yes                                | Yes                                                  | Yes       |
-| Recognition posting on blog                      | Yes                                                                                                                                            | Yes                                                              | No                                 | No                                                   | No        |
-| Mention during opening and closing session       | Yes                                                                                                                                            | Yes                                                              | Yes                                | Yes                                                  | Yes       |
-| **Engagements**                                  |                                                                                                                                                |                                                                  |
-| Sponsored session<sup>\*4</sup>                  | A Keynote<small>(30min)</small><br> + A Workshop<small>(90min)</small>,<br> A Talk<small>(30min)</small><br> or A BoF<small>(40-50min)</small> | A Talk<small>(30min)</small> or A Workshop<small>(90min)</small> | A Talk<small>(30min)</small>       | A Lightning talk(5min) <small>(Limited FCFS)</small> | No        |
-| Sponsor booth                                    | L                                                                                                                                              | M                                                                | S<sup>\*5</sup>                    | S<sup>\*5</sup> <small>(500 USD or 30,000 NPR<sup>\*0</sup> Add-on FCFS)</small> | No        |
-| Promotion video during breaks                    | 3min                                                                                                                                           | 2min                                                             | 1min                               | No                                                   | No        |
-| Distribute Promotional Material                  | Handout on attendee check-in + At booth                                                                                                        | Handout on attendee check-in + At booth                          | At booth                           | At booth <small>(If booth allocated)</small>         | No        |
-| Promotional Email to all Attendees<sup>\*5</sup> | Yes (One-time with custom content)                                                                                                             | Yes (One-time with custom content)                               | Yes (One-time with custom content) | No                                                   | No        |
+<p></p>
 
-Refer to next page for footnotes and additional sponsorship oppertunities.
+| Additional purchase                 | Titanium | Diamond  | Gold   | Silver | Bronze | Friend |
+| ----------------------------------- | -------- | -------- | ------ | ------ | ------ | ------ |
+| Booth                               | 2,950    | 2,160    | 980    | X      | X      | X      |
+| Main Track, 30 mins                 | 1,608    | 1,608    | X      | X      | X      | X      |
+| Technical Talk, 30 mins             | 1,608    | 1,608    | 1,608  | X      | X      | X      |
+| Workshop, 2 hrs                     | 983      | 983      | 983    | X      | X      | X      |
+| Logo on stage flag in keynote hall  | Included | 3,930    | X      | X      | X      | X      |
+| Lanyards                            | 3,140    | 3,140    | 3,140  | X      | X      | X      |
+| Welcome Party Sponsorship           | Included | 5,890    | 5,890  | X      | X      | X      |
+| Promotion at the snack area, 2 days | Included | Included | 1,180  | 1,180  | 1,180  | 1,180  |
+| Agenda page ads                     | 470/ad   | 470/ad   | 470/ad | 470/ad | 470/ad | 470/ad |
+
+### Notes
+
+- Sponsorship prices are in USD, and the final sponsor fee will be converted using the exchange rate applied at payment time. The page uses 1 USD = 28 TWD as the reference example.
+- Agenda page ads are available for all sponsorship levels, and the ad frequency depends on the sponsorship level.
+- Booths are available only for Gold, Diamond, and Titanium sponsors.
+- The sponsorship deadline is July 06, 2026.
+- COSCUP does not provide attendee personal information to sponsors.
+- If sponsorship benefits are not used within the year, they are considered relinquished and are non-refundable.
+
+### Footnotes
+
+- \*0: reception table
+- \*1: logo on stage flag in keynote hall
+- \*2: Welcome party sponsorship
+- \*3: Welcome party free drink tickets
+- \*4: Recruiting Board Sponsorship
+- \*5: Promotion at the snack area
+- \*6: Brand exposure on the conference table-front display
+
+Refer to next page for additional sponsorship opportunities.
 
 ---
 
 # Sponsorship packages
 
-## Footnotes
-
-- \*0: Price in Nepalese Rupees (NPR) is for business with primary office in Nepal.
-- \*1: A large size banner installed in reception area usually or entrance of the venue that number of attendees can take photo with banner as backdrop.
-- \*2: Banner of both live streams and video recordings if sessions will be streams or just on video recordings if not.
-- \*3: Duration of Scene will be around a few seconds in the video or live streams.
-- \*4: Sponsored sessions are also subject to approval by the UbuCon Asia content team. Sponsors are required to share the Abstract alongside or before availing sponsorship for review. Note that session should be Ubuntu or relevant Open Source topics and need to comply with our Code of Conducts. Also, Sales or marketing pitches are not allowed.
-- \*5: Depending on logistics availability, this could be Booth with Size M but with located in less accessible area.
-- \*6: If sponsor desires, this could be replaced with "List of participants data with names, affiliation, job profession and email address". Only data from attendees opt-in to provide their data to sponsors during registration will be provided to sponsors. Attendees will be also informed about data provision to sponsors through registration form and also privacy policy if available.
-- \*7: Startup pricing for the supporter package is limited to companies that use Ubuntu internally, have been established for five years or less, and have 30 or fewer employees.
-
 ## Additional sponsorship opportunities
-**Exhibitor package** | 600 USD (or 50,000 NPR for Local sponsors)
-- Get a booth for your business in our exhibition area!
-- Benefits
-  - S size booth & Logistics support
-  - 3 Tickets with exhibition area access only
-  - Logo exposure on exhibitors information page on our website
 
-**Diversity funds package** | 200 - 700 USD (or 20,000 - 70,000 NPR for Local sponsors)
-- Sponsor travels of underrated people or group in the community. So that we can make Ubuntu community more diverse and inclusive!
-- Benefits: Logo exposure on travel grant page on our website and beneficiaries' event report
+Additional sponsorship opportunities are available, including booth purchases, sponsored talks, workshops, stage flag branding, lanyards, Welcome Party sponsorship, snack area promotion, and agenda page ads.
 
-You may also become our in-kind sponsor by sponsoring coffee break, lunch, conference dinner, day trip and more! We’ll work with you to put together the right sponsorship package for your company or organization. These additional opportunities may be sponsored separately or added on to a sponsorship package.
+If the standard sponsorship packages do not fit the sponsor's budget or goals, customized sponsorship arrangements may also be discussed.
 
 If there are no sponsorship packages that fits your budget and needs, We're also open to discuss adjust existing package or designing package tailored for you.
 
